@@ -1,2 +1,2 @@
 #!/bin/zsh
-ln -sf ~/.zsh/.zshrc ~/.zshrc
+ln -sf ~/.zsh/.zshenv ~/.zshenv

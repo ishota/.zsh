@@ -4,7 +4,7 @@ ZDOTDIR=~/.zsh
 # シェル関数
 # 補完機能を利用
 autoload -Uz compinit
-compinit
+compinit -d ~/.zsh/.zcompdump
 # 色を利用
 autoload -Uz colors
 colors
